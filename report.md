@@ -9,9 +9,10 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-1. https://github.com/AnastasiaKuznetzova/home_java1/issues/1#issue-745408296
-2. https://github.com/AnastasiaKuznetzova/home_java1/issues/2#issue-745412104
-3. https://github.com/AnastasiaKuznetzova/home_java1/issues/3#issue-745432396
+1. [Руководство использования KeyValidator имеет ошибку.](https://github.com/AnastasiaKuznetzova/home_java1/issues/1#issue-745408296)
+
+2. [Не все валидные ключи являются таковыми в KeyValidator.](https://github.com/AnastasiaKuznetzova/home_java1/issues/2#issue-745412104)
+3. [Один из невалидных ключей является валидным в KeyValidator.](https://github.com/AnastasiaKuznetzova/home_java1/issues/3#issue-745432396)
 
 **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты:
